@@ -229,8 +229,8 @@ Possible improvements include:
 
 # 👥 Contributors
 
--   Behroz Ahmed\
--   Sameer Hayat\
+-   Behroz Ahmed
+-   Sameer Hayat
 -   Niaz Ahmed Abbasi
 
 ------------------------------------------------------------------------
